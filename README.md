@@ -1,5 +1,11 @@
 # Smart-Wall-Light
 
+
+
+## BOM
+https://www.digikey.es/en/mylists/list/CQZI4F3ENR
+
+
 ## License
 
 This work is licensed under a
